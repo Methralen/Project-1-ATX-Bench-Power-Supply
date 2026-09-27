@@ -30,3 +30,7 @@
 ## 10. Operating Instructions, Limitations, Fuse-Replacement Information, and Shutdown/Storage Procedure
 
 * **Document File:** 📄 [View Operating Instructions & Shutdown Procedure (PDF)](docs/10_Operating_Instructions_and_Shutdown_Procedure.pdf)
+
+## 11. Individual Contribution Statement and Team Responsibilities
+
+* **Document File:** 📄 [View Individual Contribution Statement (PDF)](docs/11_Individual_Contribution_Statement.pdf)

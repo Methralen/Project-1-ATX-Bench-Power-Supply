@@ -22,3 +22,7 @@
 ## 6. Branch Protection, Conductor, Converter, Loss, and Thermal Calculations
 
 * **Document File:** 📄 [View Calculations and Loss Analysis (PDF)](docs/06_Calculations_and_Loss_Analysis.pdf)
+
+## 7. Construction Photographs Showing Insulation, Restraint, and Labels
+
+* **Document File:** 📄 [View Construction Photographs (PDF)](docs/07_Construction_Photographs.pdf)

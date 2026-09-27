@@ -11,3 +11,6 @@
 ## 3. Source PSU Label Transcription, Verified Connector View & Source Links
 
 * **Document File:** 📄 [View Source PSU Label & Connector Specification (PDF)](docs/03_Source_PSU_Label_and_Connector.pdf)
+## 4. Final As-Built Schematic & Labelled Enclosure Drawing
+
+* **Document File:** 📄 [View As-Built Schematic & Enclosure Drawing (PDF)](docs/04_Schematic_and_Enclosure_Drawing.pdf)

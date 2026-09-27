@@ -14,3 +14,7 @@
 ## 4. Final As-Built Schematic & Labelled Enclosure Drawing
 
 * **Document File:** 📄 [View As-Built Schematic & Enclosure Drawing (PDF)](docs/04_Schematic_and_Enclosure_Drawing.pdf)
+
+## 5. Bill of Materials (BOM) with Part Identifiers, Ratings & Cost/Source
+
+* **Document File:** 📄 [View Bill of Materials (PDF)](docs/05_Bill_of_Materials.pdf)

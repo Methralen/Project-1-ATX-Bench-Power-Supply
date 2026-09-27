@@ -26,3 +26,7 @@
 ## 7. Construction Photographs Showing Insulation, Restraint, and Labels
 
 * **Document File:** 📄 [View Construction Photographs (PDF)](docs/07_Construction_Photographs.pdf)
+
+## 10. Operating Instructions, Limitations, Fuse-Replacement Information, and Shutdown/Storage Procedure
+
+* **Document File:** 📄 [View Operating Instructions & Shutdown Procedure (PDF)](docs/10_Operating_Instructions_and_Shutdown_Procedure.pdf)

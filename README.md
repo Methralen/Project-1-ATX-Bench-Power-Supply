@@ -18,3 +18,7 @@
 ## 5. Bill of Materials (BOM) with Part Identifiers, Ratings & Cost/Source
 
 * **Document File:** 📄 [View Bill of Materials (PDF)](docs/05_Bill_of_Materials.pdf)
+
+## 6. Branch Protection, Conductor, Converter, Loss, and Thermal Calculations
+
+* **Document File:** 📄 [View Calculations and Loss Analysis (PDF)](docs/06_Calculations_and_Loss_Analysis.pdf)

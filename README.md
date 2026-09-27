@@ -34,3 +34,7 @@
 ## 11. Individual Contribution Statement and Team Responsibilities
 
 * **Document File:** 📄 [View Individual Contribution Statement (PDF)](docs/11_Individual_Contribution_Statement.pdf)
+
+## 12. References and Exact Instrument/Module Documentation
+
+* **Document File:** 📄 [View References & Module Documentation (PDF)](docs/12_References_and_Module_Documentation.pdf)
